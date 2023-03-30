@@ -1,6 +1,3 @@
----
-title: Welcome to my blog
----
+# Title
 
-about me: description
-cv: list
+## Subtitle
