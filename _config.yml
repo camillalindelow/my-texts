@@ -1,4 +1,6 @@
 theme: minima
 title: Camilla Lindelöw
-# author: Camilla Lindelöw
+header_pages:
+  - about.md
+  - portolio.md
 description: PhD-student in Library and Information Science
