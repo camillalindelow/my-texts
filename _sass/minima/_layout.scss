@@ -256,6 +256,7 @@
 
 /* Cover Image */
 .hero {
-  background: url('assets/finistere.JPG');
+  .feature-img: {
+    max-width: 100%;
   }
 }
