@@ -1,6 +1,7 @@
 theme: minima
 title: Camilla Lindelöw
-header_pages:
-  - about.md
-  - portolio.md
+minima:
+  nav_pages:
+    - about.md
+    - portfolio.md
 email: "camilla.lindelow@hb.se"
