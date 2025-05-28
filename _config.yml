@@ -4,4 +4,4 @@ minima:
   nav_pages:
     - about.md
     - portfolio.md
-email: "camilla.lindelow@hb.se"
+# email: "camilla.lindelow@hb.se"
