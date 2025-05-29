@@ -6,11 +6,15 @@ author:
 
 remote_theme: jekyll/minima@d4d779a
 
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
 minima:
+  skin: solarized-light
+  
   nav_pages:
     - about.md
     - portfolio.md
 
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]
+
