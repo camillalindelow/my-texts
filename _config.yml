@@ -1,7 +1,16 @@
-theme: minima
-title: Camilla Lindelöw
+
+title: Sorting things here and there 
+author:
+  name: Camilla Lindelöw
+  email: camilla.lindelow@hb.se
+
+remote_theme: jekyll/minima@d4d779a
+
 minima:
   nav_pages:
     - about.md
     - portfolio.md
-# email: "camilla.lindelow@hb.se"
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
