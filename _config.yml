@@ -4,11 +4,7 @@ author:
   name: Camilla Lindelöw
   email: camilla.lindelow@hb.se
 
-remote_theme: jekyll/minima@d4d779a
-
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]
+theme: minima
 
 minima:
   skin: solarized-light
